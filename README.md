@@ -12,3 +12,6 @@ Supported cryptocoin exchange:
 * LTC/USD
 * LTC/EUR
 * LTC/BTC
+
+####Getting started
+Execute with `python mzbot.py`, python library needed `gdax,atexit,curses`, for install `pip install library_name`.
