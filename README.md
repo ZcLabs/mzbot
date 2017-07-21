@@ -15,3 +15,6 @@ Supported cryptocoin exchange:
 
 #### Getting started
 Execute with `python mzbot.py`, python library needed `gdax,atexit,curses`, for install `pip install library_name`.
+
+#### Warning
+Only work on GNU/Linux and MacOs
